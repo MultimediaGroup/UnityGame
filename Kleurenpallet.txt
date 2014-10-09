@@ -1,0 +1,16 @@
+Light -->  Dark
+
+Yellow
+#FEE895
+
+Orange
+#D67741
+
+Blue
+#66A997
+
+Green
+#BAB64B
+
+Brown
+#402D1C
