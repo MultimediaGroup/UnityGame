@@ -1,0 +1,287 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-944
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=2512 outsize=1730 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=223207 outsize=4776 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=223207 outsize=6425 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=127088 outsize=3720 kw=POINT LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=127088 outsize=4183 kw=POINT LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=125333 outsize=3005 kw=LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=125333 outsize=1640 kw=LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=201455 outsize=4378 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=201455 outsize=5036 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: preprocess
+  insize=2824 outsize=1675 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=116216 outsize=4776 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=116216 outsize=6693 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=69045 outsize=3720 kw=POINT LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=69045 outsize=4443 kw=POINT LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=68153 outsize=3005 kw=LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=68153 outsize=1640 kw=LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=105511 outsize=4378 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=105511 outsize=5337 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON ok=1
+Cmd: preprocess
+  insize=11302 outsize=954 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10316 outsize=1940 kw=POINT SHADOWS_OFF LUX_LIGHTING_CT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10316 outsize=5304 kw=POINT SHADOWS_OFF LUX_LIGHTING_CT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10310 outsize=1940 kw=POINT SHADOWS_OFF LUX_LIGHTING_CT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10310 outsize=5255 kw=POINT SHADOWS_OFF LUX_LIGHTING_CT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10315 outsize=1940 kw=POINT SHADOWS_OFF LUX_LIGHTING_BP ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10315 outsize=4971 kw=POINT SHADOWS_OFF LUX_LIGHTING_BP ok=1
+Cmd: preprocess
+  insize=1106 outsize=446 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=962 outsize=1298 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=962 outsize=795 kw= ok=1
+Cmd: preprocess
+  insize=8938 outsize=2377 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=878 outsize=1916 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=878 outsize=1380 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=627 outsize=1697 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=627 outsize=965 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=628 outsize=1697 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=628 outsize=965 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=880 outsize=1916 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=880 outsize=1380 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=792 outsize=4427 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=792 outsize=1014 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=908 outsize=5296 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=908 outsize=1355 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=788 outsize=2533 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=788 outsize=965 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=985 outsize=2737 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=985 outsize=1355 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=992 outsize=2785 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=992 outsize=1355 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=885 outsize=2696 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=885 outsize=1307 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=959 outsize=4784 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=959 outsize=1453 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=911 outsize=4467 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=911 outsize=1453 kw= ok=1
+Cmd: preprocess
+  insize=2979 outsize=1917 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=232199 outsize=4776 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=232199 outsize=6823 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=136080 outsize=3720 kw=POINT LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=136080 outsize=4467 kw=POINT LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=134325 outsize=3005 kw=LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=134325 outsize=1697 kw=LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=210447 outsize=4378 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=210447 outsize=5434 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: preprocess
+  insize=1386 outsize=1437 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=43354 outsize=3760 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LINEAR DIFFCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=43354 outsize=2680 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LINEAR DIFFCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=23451 outsize=3037 kw=POINT LUX_LINEAR DIFFCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=23451 outsize=2005 kw=POINT LUX_LINEAR DIFFCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=23431 outsize=2915 kw=LUX_LINEAR DIFFCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=23431 outsize=1510 kw=LUX_LINEAR DIFFCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=39401 outsize=3395 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF LUX_LINEAR DIFFCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=39401 outsize=2533 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF LUX_LINEAR DIFFCUBE_ON LUX_AO_OFF ok=1
+Cmd: preprocess
+  insize=8132 outsize=2267 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=887 outsize=1136 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=887 outsize=892 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=636 outsize=892 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=636 outsize=437 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=637 outsize=892 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=637 outsize=437 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=889 outsize=1136 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=889 outsize=892 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=746 outsize=3403 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=746 outsize=437 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=906 outsize=4435 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=906 outsize=868 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=771 outsize=1680 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=771 outsize=437 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=968 outsize=1908 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=968 outsize=868 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=902 outsize=2103 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=902 outsize=819 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=970 outsize=4004 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=970 outsize=965 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=919 outsize=3687 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=919 outsize=965 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=127088 outsize=2940 kw=DIRECTIONAL LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=127088 outsize=3866 kw=DIRECTIONAL LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=69045 outsize=2940 kw=DIRECTIONAL LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=69045 outsize=4126 kw=DIRECTIONAL LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=232199 outsize=4938 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=232199 outsize=7043 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=136080 outsize=2940 kw=DIRECTIONAL LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=136080 outsize=4150 kw=DIRECTIONAL LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=223207 outsize=4776 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LIGHTING_BP LUX_LINEAR SPECCUBE_ON LUX_AO_OFF DIFFCUBE_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=223207 outsize=6734 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LIGHTING_BP LUX_LINEAR SPECCUBE_ON LUX_AO_OFF DIFFCUBE_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=127088 outsize=2940 kw=DIRECTIONAL LUX_LIGHTING_BP LUX_LINEAR SPECCUBE_ON LUX_AO_OFF DIFFCUBE_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=127088 outsize=3866 kw=DIRECTIONAL LUX_LIGHTING_BP LUX_LINEAR SPECCUBE_ON LUX_AO_OFF DIFFCUBE_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=43354 outsize=2395 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LINEAR LUX_AO_OFF DIFFCUBE_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=43354 outsize=2631 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LINEAR LUX_AO_OFF DIFFCUBE_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=23451 outsize=2257 kw=DIRECTIONAL LUX_LINEAR LUX_AO_OFF DIFFCUBE_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=23451 outsize=1591 kw=DIRECTIONAL LUX_LINEAR LUX_AO_OFF DIFFCUBE_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=23451 outsize=2257 kw=DIRECTIONAL LUX_LINEAR DIFFCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=23451 outsize=1591 kw=DIRECTIONAL LUX_LINEAR DIFFCUBE_ON LUX_AO_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=223207 outsize=4443 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON LUX_AO_OFF SPECCUBE_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=223207 outsize=4955 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON LUX_AO_OFF SPECCUBE_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=127088 outsize=2940 kw=DIRECTIONAL LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON LUX_AO_OFF SPECCUBE_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=127088 outsize=3866 kw=DIRECTIONAL LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON LUX_AO_OFF SPECCUBE_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=223207 outsize=4938 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=223207 outsize=6645 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=127088 outsize=2940 kw=DIRECTIONAL LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=127088 outsize=3866 kw=DIRECTIONAL LUX_LIGHTING_BP LUX_LINEAR DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=125333 outsize=3005 kw=LUX_LIGHTING_BP DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=125333 outsize=1640 kw=LUX_LIGHTING_BP DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=23431 outsize=2915 kw=DIFFCUBE_ON LUX_AO_OFF LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=23431 outsize=1510 kw=DIFFCUBE_ON LUX_AO_OFF LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=125333 outsize=3005 kw=LUX_LIGHTING_BP SPECCUBE_ON LUX_AO_OFF DIFFCUBE_OFF LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=125333 outsize=1640 kw=LUX_LIGHTING_BP SPECCUBE_ON LUX_AO_OFF DIFFCUBE_OFF LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=134325 outsize=3005 kw=LUX_LIGHTING_BP DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=134325 outsize=1697 kw=LUX_LIGHTING_BP DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=125333 outsize=3005 kw=LUX_LIGHTING_BP DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=125333 outsize=1640 kw=LUX_LIGHTING_BP DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10310 outsize=1940 kw=DIRECTIONAL SHADOWS_SCREEN LUX_LIGHTING_BP ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10310 outsize=4743 kw=DIRECTIONAL SHADOWS_SCREEN LUX_LIGHTING_BP ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=201455 outsize=4378 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON LUX_LIGHTING_BP DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=201455 outsize=4565 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON LUX_LIGHTING_BP DIFFCUBE_ON SPECCUBE_ON LUX_AO_OFF LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=39401 outsize=3395 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON DIFFCUBE_ON LUX_AO_OFF LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=39401 outsize=2282 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON DIFFCUBE_ON LUX_AO_OFF LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=201455 outsize=4378 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON LUX_LIGHTING_BP SPECCUBE_ON LUX_AO_OFF DIFFCUBE_OFF LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=201455 outsize=5077 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON LUX_LIGHTING_BP SPECCUBE_ON LUX_AO_OFF DIFFCUBE_OFF LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=210447 outsize=4540 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON LUX_LIGHTING_BP DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=210447 outsize=5182 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON LUX_LIGHTING_BP DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=201455 outsize=4540 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON LUX_LIGHTING_BP DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON LUX_GAMMA ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=201455 outsize=4784 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_ON LUX_LIGHTING_BP DIFFCUBE_ON SPECCUBE_ON LUX_AO_ON LUX_GAMMA ok=1
