@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{84009ADE-31DA-438B-A39F-63B52084562A}</ProjectGuid>
+	<ProjectGuid>{9ACA0DF4-A22B-6668-60A4-156A146F0685}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -55,14 +55,13 @@
      <Compile Include="Assets\Working Assets\Code\SplashCamera.cs" />
      <Compile Include="Assets\Working Assets\Code\SplashTitle.cs" />
      <Compile Include="Assets\Working Assets\Code\TouchInfo.cs" />
-     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{15265B55-1C4D-FFB5-B26C-DB0348763260}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{0A1F7D7E-EDCD-3E99-33E6-D6EF98F26E80}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
-      <Project>{FD741823-72CC-38B4-7C71-89614961361D}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+      <Project>{E73ADB05-7700-DE91-F523-69EB5F1BD39A}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
