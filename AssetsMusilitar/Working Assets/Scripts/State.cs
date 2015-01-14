@@ -7,7 +7,8 @@ public class State : MonoBehaviour {
 	//-1: game over
 	//0: on splashscreen
 	//1: playing a level
-	//2: on menu
+	//2: can go to next level
+	//3: on menu
 
 
 	public static int state;
@@ -29,14 +30,14 @@ public class State : MonoBehaviour {
 	}
 	
 	void OnGUI() {
-		if(state == 1) {
+		if(state == 1 || state == 2) {
 			if(isOutOfBounds) {
 				if(outOfBoundsTimer > 0) {
 					outOfBoundsTimer -= 1 * Time.deltaTime;
 					GUI.Label(new Rect (0,0,100,100), outOfBoundsTimer.ToString());
 				}
 				else {
-					gameOver();
+					restart();
 					isOutOfBounds = false;
 					outOfBoundsTimer = 10;
 				}
@@ -57,7 +58,7 @@ public class State : MonoBehaviour {
 	}
 	
 	public static void pause(bool pause) {
-		if(state == 1) {
+		if(state == 1 || state == 2) {
 			if(pause) {
 				player.rigidbody.isKinematic = true;
 			}
