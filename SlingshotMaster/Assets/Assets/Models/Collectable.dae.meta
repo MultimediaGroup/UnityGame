@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 3148c14111b685c4094eaf7bbe7911bf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: instance_0
+    100004: instance_1
+    100006: instance_10
+    100008: instance_11
+    100010: instance_12
+    100012: instance_13
+    100014: instance_14
+    100016: instance_15
+    100018: instance_16
+    100020: instance_17
+    100022: instance_18
+    100024: instance_19
+    100026: instance_2
+    100028: instance_20
+    100030: instance_21
+    100032: instance_22
+    100034: instance_23
+    100036: instance_24
+    100038: instance_25
+    100040: instance_26
+    100042: instance_27
+    100044: instance_28
+    100046: instance_29
+    100048: instance_3
+    100050: instance_30
+    100052: instance_4
+    100054: instance_5
+    100056: instance_6
+    100058: instance_7
+    100060: instance_8
+    100062: instance_9
+    100064: Medial_rhombic_triacontahedron
+    100066: Rhombic_face
+    100068: Rhombic_face 1
+    100070: Rhombic_face 10
+    100072: Rhombic_face 11
+    100074: Rhombic_face 12
+    100076: Rhombic_face 13
+    100078: Rhombic_face 14
+    100080: Rhombic_face 15
+    100082: Rhombic_face 16
+    100084: Rhombic_face 17
+    100086: Rhombic_face 18
+    100088: Rhombic_face 19
+    100090: Rhombic_face 2
+    100092: Rhombic_face 20
+    100094: Rhombic_face 21
+    100096: Rhombic_face 22
+    100098: Rhombic_face 23
+    100100: Rhombic_face 24
+    100102: Rhombic_face 25
+    100104: Rhombic_face 26
+    100106: Rhombic_face 27
+    100108: Rhombic_face 28
+    100110: Rhombic_face 29
+    100112: Rhombic_face 3
+    100114: Rhombic_face 4
+    100116: Rhombic_face 5
+    100118: Rhombic_face 6
+    100120: Rhombic_face 7
+    100122: Rhombic_face 8
+    100124: Rhombic_face 9
+    400000: //RootNode
+    400002: instance_0
+    400004: instance_1
+    400006: instance_10
+    400008: instance_11
+    400010: instance_12
+    400012: instance_13
+    400014: instance_14
+    400016: instance_15
+    400018: instance_16
+    400020: instance_17
+    400022: instance_18
+    400024: instance_19
+    400026: instance_2
+    400028: instance_20
+    400030: instance_21
+    400032: instance_22
+    400034: instance_23
+    400036: instance_24
+    400038: instance_25
+    400040: instance_26
+    400042: instance_27
+    400044: instance_28
+    400046: instance_29
+    400048: instance_3
+    400050: instance_30
+    400052: instance_4
+    400054: instance_5
+    400056: instance_6
+    400058: instance_7
+    400060: instance_8
+    400062: instance_9
+    400064: Medial_rhombic_triacontahedron
+    400066: Rhombic_face
+    400068: Rhombic_face 1
+    400070: Rhombic_face 10
+    400072: Rhombic_face 11
+    400074: Rhombic_face 12
+    400076: Rhombic_face 13
+    400078: Rhombic_face 14
+    400080: Rhombic_face 15
+    400082: Rhombic_face 16
+    400084: Rhombic_face 17
+    400086: Rhombic_face 18
+    400088: Rhombic_face 19
+    400090: Rhombic_face 2
+    400092: Rhombic_face 20
+    400094: Rhombic_face 21
+    400096: Rhombic_face 22
+    400098: Rhombic_face 23
+    400100: Rhombic_face 24
+    400102: Rhombic_face 25
+    400104: Rhombic_face 26
+    400106: Rhombic_face 27
+    400108: Rhombic_face 28
+    400110: Rhombic_face 29
+    400112: Rhombic_face 3
+    400114: Rhombic_face 4
+    400116: Rhombic_face 5
+    400118: Rhombic_face 6
+    400120: Rhombic_face 7
+    400122: Rhombic_face 8
+    400124: Rhombic_face 9
+    2300000: Rhombic_face
+    2300002: Rhombic_face 1
+    2300004: Rhombic_face 10
+    2300006: Rhombic_face 11
+    2300008: Rhombic_face 12
+    2300010: Rhombic_face 13
+    2300012: Rhombic_face 14
+    2300014: Rhombic_face 15
+    2300016: Rhombic_face 16
+    2300018: Rhombic_face 17
+    2300020: Rhombic_face 18
+    2300022: Rhombic_face 19
+    2300024: Rhombic_face 2
+    2300026: Rhombic_face 20
+    2300028: Rhombic_face 21
+    2300030: Rhombic_face 22
+    2300032: Rhombic_face 23
+    2300034: Rhombic_face 24
+    2300036: Rhombic_face 25
+    2300038: Rhombic_face 26
+    2300040: Rhombic_face 27
+    2300042: Rhombic_face 28
+    2300044: Rhombic_face 29
+    2300046: Rhombic_face 3
+    2300048: Rhombic_face 4
+    2300050: Rhombic_face 5
+    2300052: Rhombic_face 6
+    2300054: Rhombic_face 7
+    2300056: Rhombic_face 8
+    2300058: Rhombic_face 9
+    3300000: Rhombic_face
+    3300002: Rhombic_face 1
+    3300004: Rhombic_face 10
+    3300006: Rhombic_face 11
+    3300008: Rhombic_face 12
+    3300010: Rhombic_face 13
+    3300012: Rhombic_face 14
+    3300014: Rhombic_face 15
+    3300016: Rhombic_face 16
+    3300018: Rhombic_face 17
+    3300020: Rhombic_face 18
+    3300022: Rhombic_face 19
+    3300024: Rhombic_face 2
+    3300026: Rhombic_face 20
+    3300028: Rhombic_face 21
+    3300030: Rhombic_face 22
+    3300032: Rhombic_face 23
+    3300034: Rhombic_face 24
+    3300036: Rhombic_face 25
+    3300038: Rhombic_face 26
+    3300040: Rhombic_face 27
+    3300042: Rhombic_face 28
+    3300044: Rhombic_face 29
+    3300046: Rhombic_face 3
+    3300048: Rhombic_face 4
+    3300050: Rhombic_face 5
+    3300052: Rhombic_face 6
+    3300054: Rhombic_face 7
+    3300056: Rhombic_face 8
+    3300058: Rhombic_face 9
+    4300000: Rhombic_face
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .200000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -17,12 +17,19 @@ public class State : MonoBehaviour {
 	public static GameObject player;
 	public static bool isOutOfBounds;
 
+	public static GameObject menu;
+
+	private static Vector3 previousSpeed = Vector3.zero;
+
 	// Use this for initialization
 	void Start () {
 		state = 1;
 		level = 1;
 		updateCurrentLevel();
 		player = GameObject.FindGameObjectWithTag("Player");
+		menu = GameObject.Find("Menu");
+		if(menu)
+			menu.SetActive(false);
 		outOfBoundsTimer = 10;
 	}
 	
@@ -38,9 +45,9 @@ public class State : MonoBehaviour {
 					GUI.Label(new Rect (0,0,100,100), outOfBoundsTimer.ToString());
 				}
 				else {
-					gameOver();
 					isOutOfBounds = false;
 					outOfBoundsTimer = 10;
+					restart();
 				}
 			}
 		}
@@ -65,10 +72,12 @@ public class State : MonoBehaviour {
 	public static void pause(bool pause) {
 		if(state == 1) {
 			if(pause) {
+				previousSpeed = player.rigidbody.velocity;
 				player.rigidbody.isKinematic = true;
 			}
 			else {
 				player.rigidbody.isKinematic = false;
+				player.rigidbody.velocity = previousSpeed;
 			}
 		}
 	}
@@ -89,8 +98,24 @@ public class State : MonoBehaviour {
 		player.rigidbody.isKinematic = true;
 		state = -1;
 	}
+
+	public static void endGame(){
+		Application.Quit();
+	}
 	
 	public static void updateCurrentLevel() {
 		currentLevel = Application.loadedLevelName;
+	}
+
+	public static void pauseMenu(){
+		if(!player.rigidbody.isKinematic) {
+			pause(true);
+			//Debug.Log(GameObject.Find("Menu"));
+			//GameObject menu = GameObject.Find("Menu");
+			menu.SetActive(true);
+		}else{
+			pause(false);
+			menu.SetActive(false);
+		}
 	}
 }
