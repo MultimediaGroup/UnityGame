@@ -38,9 +38,9 @@ public class State : MonoBehaviour {
 					GUI.Label(new Rect (0,0,100,100), outOfBoundsTimer.ToString());
 				}
 				else {
+					gameOver();
 					isOutOfBounds = false;
 					outOfBoundsTimer = 10;
-					restart();
 				}
 			}
 		}
@@ -88,10 +88,6 @@ public class State : MonoBehaviour {
 	public static void gameOver() {
 		player.rigidbody.isKinematic = true;
 		state = -1;
-	}
-
-	public static void endGame(){
-		Application.Quit();
 	}
 	
 	public static void updateCurrentLevel() {
